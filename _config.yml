@@ -13,7 +13,7 @@ title                    : "Mengsi He's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Mengsi He"
 description              : &description "Ph.D. student"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mengsihe.github.io"
+url                      : https://mengsihe.github.io # the base hostname & protocol for your site e.g. "https://mengsihe.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
